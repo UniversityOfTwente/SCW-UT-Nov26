@@ -2,7 +2,7 @@
 
 Welcome to the Python Software Carpentries training.  Please follow these instructions to set up your environment before the workshop.
 
-### Trainers: Adhitya Bhawiyuga (PhD Candidate at UT-ITC), Leila Iñigo de la Cruz (TU Delft), Néstor DelaPaz-Ruíz (UT-LISA)
+### Trainers: Adhitya Bhawiyuga (PhD Candidate at UT-ITC), Leila Iñigo de la Cruz (4TU.ResearchData), Néstor DelaPaz-Ruíz (UT-LISA)
 
 ## Prerequisites
 
@@ -60,19 +60,19 @@ If Python 3 is not installed or you need a newer version:
 5. Open Terminal/Powershell into `swc-python` directory. Then, create a Python virtual environment:
 
     ```bash
-    python -m venv venv
+    python -m venv .venv
     ```
 
 6. Activate the virtual environment:
 
     **On macOS/Linux:**
     ```bash
-    source venv/bin/activate
+    source .venv/bin/activate
     ```
 
     **On Windows:**
     ```cmd
-    venv\Scripts\activate
+    .venv\Scripts\activate
     ```
 
     You should see `(venv)` appear at the beginning of your terminal prompt.
