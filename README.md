@@ -105,7 +105,7 @@ To verify your setup is correct, ensure:
 ### Python Command Not Found
 If `python` doesn't work, try `python3` instead:
 ```bash
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 ### Permission Issues
