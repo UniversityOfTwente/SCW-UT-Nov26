@@ -1,8 +1,14 @@
-# UT Python Carpentries Training
+# UT Sofware Carpentry Workshop: Nov 2026
 
 Welcome to the Python Software Carpentries training.  Please follow these instructions to set up your environment before the workshop.
 
-### Trainers: Adhitya Bhawiyuga (PhD Candidate at UT-ITC), Leila Iñigo de la Cruz (4TU.ResearchData), Néstor DelaPaz-Ruíz (UT-LISA)
+### Trainers: Jonas Niese (PhD Candidate at UT-ET), Leila Iñigo de la Cruz (4TU.ResearchData), Efe Sozeri (UT-LISA), Néstor DelaPaz-Ruíz (UT-LISA)
+
+## Workshop website with program
+
+[Software Carpentry Workshop](https://4turesearchdata-carpentries.github.io/2026-11-17-tudelft/)
+
+[Collaborative Document SWC-UT](https://edu.nl/rkmf7)
 
 ## Prerequisites
 
