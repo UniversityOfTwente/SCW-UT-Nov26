@@ -7,6 +7,6 @@ def patient_weight(x,y):
 if __name__ == "__main__":
     x = float(sys.argv[1])
     y = float(sys.argv[2])
-    patient_weights(x, y)
+    patient_weight(x, y)
 
     
